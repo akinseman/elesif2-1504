@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\if eles 2 -1504\if eles 2 -1504\bin\Debug\if eles 2 -1504.exe.config
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\if eles 2 -1504\if eles 2 -1504\bin\Debug\if eles 2 -1504.exe
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\if eles 2 -1504\if eles 2 -1504\bin\Debug\if eles 2 -1504.pdb
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\if eles 2 -1504\if eles 2 -1504\obj\Debug\if eles 2 -1504.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\if eles 2 -1504\if eles 2 -1504\obj\Debug\if eles 2 -1504.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\if eles 2 -1504\if eles 2 -1504\obj\Debug\if_eles_2__1504.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\if eles 2 -1504\if eles 2 -1504\obj\Debug\if_eles_2__1504.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\if eles 2 -1504\if eles 2 -1504\obj\Debug\if eles 2 -1504.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\if eles 2 -1504\if eles 2 -1504\obj\Debug\if eles 2 -1504.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\if eles 2 -1504\if eles 2 -1504\obj\Debug\if eles 2 -1504.exe
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\if eles 2 -1504\if eles 2 -1504\obj\Debug\if eles 2 -1504.pdb
